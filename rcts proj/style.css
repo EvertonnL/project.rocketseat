@@ -81,7 +81,7 @@ border: 0;
 border-radius: 50%;
 position: absolute;
 top: 50%;
-left: 0;jj
+left: 0;
 z-index: 1;
 transform: translateY(-50%);
 }
